@@ -19,7 +19,7 @@ ArcGIS Pro · QGIS · PostGIS · GeoServer · Python · LangChain · OpenAI API 
 
 ### Contact
 
-📧 akrembenchiha@usherbrooke.ca · 📞 (819) 993-9777
+📧 akrem.benchiha@usherbrooke.ca · 📞 (819) 993-9777
 
 ---
 
